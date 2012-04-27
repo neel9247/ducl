@@ -1,3 +1,0 @@
-﻿<asp:Label runat="server" CssClass="DefaultData"></asp:Label>
-<asp:Label runat="server" SkinId="SmallDataLabel" CssClass="SmallDataLabel"></asp:Label>
-<asp:Label runat="server" SkinId="BoldDataLabel" CssClass="BoldData"></asp:Label>

@@ -1,8 +1,0 @@
-C:\Users\Neel\Documents\Visual Studio 2010\Projects\Preview.DUCL\Provider\bin\Debug\Provider.dll
-C:\Users\Neel\Documents\Visual Studio 2010\Projects\Preview.DUCL\Provider\bin\Debug\Provider.pdb
-C:\Users\Neel\Documents\Visual Studio 2010\Projects\Preview.DUCL\Provider\obj\Debug\Provider.dll
-C:\Users\Neel\Documents\Visual Studio 2010\Projects\Preview.DUCL\Provider\obj\Debug\Provider.pdb
-C:\Users\Neel\Documents\Visual Studio 2010\Projects\ducl\Provider\bin\Debug\Provider.dll
-C:\Users\Neel\Documents\Visual Studio 2010\Projects\ducl\Provider\bin\Debug\Provider.pdb
-C:\Users\Neel\Documents\Visual Studio 2010\Projects\ducl\Provider\obj\Debug\Provider.dll
-C:\Users\Neel\Documents\Visual Studio 2010\Projects\ducl\Provider\obj\Debug\Provider.pdb
