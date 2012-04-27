@@ -1,5 +1,0 @@
-# Compiled source#
-############################
-*.com
-*.class
-*.config
